@@ -1,0 +1,11 @@
+.activeIconThumb{
+    color: aqua;
+    height:300px;
+    width:300px;
+}
+
+.activeIconThumb:hover{
+    color: rgb(252, 195, 38);
+}
+
+  
